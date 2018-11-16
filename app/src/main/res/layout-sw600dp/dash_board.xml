@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout01"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="bottom"
+        layout="@layout/header_view" />
+
+    <RelativeLayout
+        android:id="@+id/rl"
+        android:layout_width="match_parent"
+        android:layout_height="300dip"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/header" >
+
+        <ImageView
+            android:id="@+id/emp_photo"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="16dip"
+            android:layout_marginTop="16dip" />
+
+        <TextView
+            android:id="@+id/emp_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginTop="15dp"
+            android:layout_toRightOf="@+id/emp_photo"
+            android:gravity="left"
+            android:text=""
+            android:textSize="22sp"
+            android:textColor="#000000" />
+
+        <TextView
+            android:id="@+id/designation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/emp_name"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/emp_photo"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="#000000" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/LinearLayout04"
+        android:layout_below="@+id/rl"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:id="@+id/ll_getWorks"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:id="@+id/listimage2"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/find_place" />
+
+            <TextView
+                android:id="@+id/tv_getHousingWorks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:gravity="center"
+                android:text="Get Housing Work Detail's"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@drawable/selector"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_pendingWorks"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:id="@+id/listimage2"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/housing" />
+
+            <TextView
+                android:id="@+id/pendingWorks"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:text="Select Housing Work Manually"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@drawable/selector"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pendingWorksCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dip"
+                android:gravity="right"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/ll_pendingUploads"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical" >
+
+            <ImageView
+                android:id="@+id/listimage3"
+                android:layout_width="60dip"
+                android:layout_height="60dip"
+                android:layout_marginLeft="10dp"
+                android:src="@drawable/pending_uploads" />
+
+            <TextView
+                android:id="@+id/pendingUploads"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:gravity="center"
+                android:layout_toRightOf="@+id/listimage3"
+                android:text="Pending Uploads"
+                android:layout_centerVertical="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@drawable/selector"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pendingUploadCount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:gravity="right"
+                android:layout_alignParentRight="true"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="#000000" />
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LinearLayout04"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/footer"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Previous Visit Date :"
+            android:textSize="22sp"
+            android:textColor="#FF0000" />
+
+        <TextView
+            android:id="@+id/emp_last_visit_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text=""
+           android:textSize="22sp"
+            android:textColor="#ff0000" />
+    </LinearLayout>
+
+    <include
+        android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        layout="@layout/footer" />
+
+</RelativeLayout>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical" >
+
+    <include
+        android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="bottom"
+        layout="@layout/header_view" />
+
+    <include
+        android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom"
+        layout="@layout/footer" />
+
+    <RelativeLayout
+        android:id="@+id/RelativeLayout001"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header" >
+
+        <TextView
+            android:id="@+id/tv_workId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="16dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="#0000A0" />
+
+        <ImageView
+            android:id="@+id/homeimg"
+            android:layout_width="90dip"
+            android:layout_height="90dip"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/home_icon" />
+
+        <ImageView
+            android:id="@+id/backimg"
+            android:layout_width="90dip"
+            android:layout_height="90dip"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/back_button_selector" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/RelativeLayout001"
+        android:layout_marginTop="20dp"
+        android:gravity="center" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Select Stage"
+            android:textSize="25sp"
+            android:textColor="#000000" />
+
+        <Spinner
+            android:id="@+id/sp_stage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/ed_remarks"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:ems="10"
+        android:textSize="25sp"
+        android:hint="Enter Remarks" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/but_photo"
+        android:layout_width="wrap_content"
+        android:layout_height="80dip"
+        android:layout_above="@+id/footer"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="100dp"
+        android:text=" Take Photo " 
+        android:textSize="30sp"/>
+
+</RelativeLayout>

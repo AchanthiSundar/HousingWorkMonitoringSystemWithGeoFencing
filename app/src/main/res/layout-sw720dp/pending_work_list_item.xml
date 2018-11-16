@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/list_selector" >
+
+        <LinearLayout
+            android:id="@+id/linearLayout1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/fyear"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/workid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:text="workid"
+                android:textColor="#FF4500"
+                android:textSize="22sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/schemegrouppname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/workgroupname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/workgroupid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/worktypeid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/block"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/villagecode"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/stagename"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/mworkid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/currentstageofwork"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/scheme"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                android:text="Scheme"
+                android:textSize="22sp"
+                android:textColor="#E70DBF" />
+
+            <TextView
+                android:id="@+id/schemeid"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="hidden value"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout1"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/workTypeName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="WorkTypeName"
+                android:textColor="#750658"
+                 android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/workname"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:text="WorkName"
+                android:textSize="22sp"
+                android:textColor="#8A2908" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout2"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/village"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="VillagePanchayat"
+                 android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/agency"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="22sp"
+                android:text="AgencyName" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout4"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/beneficiaryName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="BeneficiaryName"
+                 android:textSize="22sp"
+                android:textColor="#E70D4F" />
+
+            <TextView
+                android:id="@+id/beneficiaryFatherName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:text="BeneficiaryFatherName"
+                android:textSize="22sp"
+                android:textColor="#8A4B08" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout3"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/gender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="Beneficiary Gender" 
+                 android:textSize="22sp"/>
+
+            <TextView
+                android:id="@+id/tv_gender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="22sp"
+                android:text="MAle" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout6"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/community"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="Beneficiary Community"
+                 android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/tv_community"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="22sp"
+                android:text="OBC" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout7"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/initialAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="Initial Amount" 
+                 android:textSize="22sp"/>
+
+            <TextView
+                android:id="@+id/tv_initialAmount"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="22sp"
+                android:text="100000" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout8"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/amountSpentSoFar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="Amount Spent So Far "
+                 android:textSize="22sp" />
+
+            <TextView
+                android:id="@+id/tv_amountSpentSoFar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="5dp"
+                android:textSize="22sp"
+                android:text="100000" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linearLayout9"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:id="@+id/LVD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:text="Last Visited Date"
+                 android:textSize="25sp" />
+
+            <TextView
+                android:id="@+id/last_visited_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:textSize="22sp"
+                android:layout_marginLeft="5dp"
+                android:text="Date" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/fyear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="5dp"
+            android:paddingBottom="2dip"
+            android:text="financialYear"
+            android:textColor="#000080"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</LinearLayout>
