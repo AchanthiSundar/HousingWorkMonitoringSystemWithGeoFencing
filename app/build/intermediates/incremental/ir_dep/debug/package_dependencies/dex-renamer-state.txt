@@ -1,0 +1,4 @@
+#Fri Nov 16 10:49:28 IST 2018
+base.0=D\:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
