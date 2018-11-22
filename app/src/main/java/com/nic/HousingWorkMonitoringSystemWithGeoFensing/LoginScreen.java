@@ -320,7 +320,7 @@ public class LoginScreen extends Activity implements OnClickListener {
 			try {
 				PostMethod po = new PostMethod(getApplicationContext(),login_url);
 				sb = po.post1();
-				Log.d("LOG_TAG", sb);
+				Log.d("Response_Of_Login", sb);
 				
 				if(sb.startsWith("<rd>")){
 					InputSource is = new InputSource();
