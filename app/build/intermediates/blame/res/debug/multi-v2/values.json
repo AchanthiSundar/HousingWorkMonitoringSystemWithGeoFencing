@@ -1,29 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidPrjt\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "D:\\AndroidPrjt\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
-                        "startLines": "6,15",
-                        "startColumns": "4,4",
-                        "startOffsets": "192,525",
-                        "endLines": "12,17",
-                        "endColumns": "12,12",
-                        "endOffsets": "484,682"
+                        "startLines": "3,4,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,210",
+                        "endColumns": "57,55,45",
+                        "endOffsets": "145,202,251"
                     },
                     "to": {
-                        "startLines": "59,66",
-                        "startColumns": "4,4",
-                        "startOffsets": "3631,3922",
-                        "endLines": "65,68",
-                        "endColumns": "12,12",
-                        "endOffsets": "3917,4077"
+                        "startLines": "22,23,44",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "1386,1444,2819",
+                        "endColumns": "57,55,45",
+                        "endOffsets": "1439,1495,2860"
                     }
                 },
                 {
-                    "source": "C:\\Users\\hcl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\e48c5c8a92433d892d9370ff5056fdd4\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,15,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -42,24 +40,7 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidPrjt\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\values\\dimens.xml",
-                    "from": {
-                        "startLines": "3,4,6",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "92,151,210",
-                        "endColumns": "57,55,45",
-                        "endOffsets": "145,202,251"
-                    },
-                    "to": {
-                        "startLines": "22,23,44",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "1386,1444,2819",
-                        "endColumns": "57,55,45",
-                        "endOffsets": "1439,1495,2860"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\hcl\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\246d9d6e8b6c6e7e823ebff23abe640c\\res\\values\\values.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -76,7 +57,26 @@
                     }
                 },
                 {
-                    "source": "D:\\AndroidPrjt\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "59,66",
+                        "startColumns": "4,4",
+                        "startOffsets": "3631,3922",
+                        "endLines": "65,68",
+                        "endColumns": "12,12",
+                        "endOffsets": "3917,4077"
+                    }
+                },
+                {
+                    "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

@@ -360,7 +360,7 @@ public class LoginScreen extends Activity implements OnClickListener {
 			dismissDialog(DIALOG_DOWNLOAD_PROGRESS);
 			sharedpreferences = getSharedPreferences("mypreferences", Context.MODE_PRIVATE);
 	        pref_username = sharedpreferences.getString("username", null);
-			Log.i("RES", sb);
+		//	Log.i("RES", sb);
 			if(sb.startsWith("<rd>")){
 				 
 				preferences = PreferenceManager.getDefaultSharedPreferences(LoginScreen.this);

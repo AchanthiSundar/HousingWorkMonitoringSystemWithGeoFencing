@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\AndroidPrjt\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
+            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nb\\values-nb.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\hcl\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\e48c5c8a92433d892d9370ff5056fdd4\\res\\values-nb\\values-nb.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values-nb\\values-nb.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
