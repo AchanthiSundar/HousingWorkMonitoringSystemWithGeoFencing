@@ -21,7 +21,7 @@ import android.view.WindowManager;
 import android.widget.Toast;
 
 public class Upgradeapk extends Activity {
-	 String dwnload_file_path = "http://www.tnrd.gov.in/project/downloads/TNWorkMonitoringSystem.apk";
+	 String dwnload_file_path = "https://www.tnrd.gov.in/project/downloads/TNWorkMonitoringSystem.apk";
 	 int downloadedSize = 0;
 	 int totalSize = 0;
 	 

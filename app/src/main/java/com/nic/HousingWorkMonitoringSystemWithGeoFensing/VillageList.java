@@ -20,6 +20,7 @@ import android.database.Cursor;
 import android.graphics.Color;
 import android.graphics.drawable.ColorDrawable;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
 import android.text.Editable;
@@ -242,7 +243,7 @@ public class VillageList extends Activity {
 			try {
 
 				PostMethod po = new PostMethod(getApplicationContext(),
-						"http://www.tnrd.gov.in/project/webservices_forms/scheme_monitoring_system.php");
+						"https://www.tnrd.gov.in/project/webservices_forms/scheme_monitoring_system.php");
 				
 				/*PostMethod po = new PostMethod(getApplicationContext(),
 						"http://10.163.14.137/rdwebtraining/project_new/webservices_forms/scheme_monitoring_system.php");*/
@@ -314,56 +315,57 @@ public class VillageList extends Activity {
 				
 				try{
 					sitesListPendingWorkList = MyXMLHandlerPendingWorkList.sitesListPendingWorkList;
-					
-					for (int i = 0; i < sitesListPendingWorkList.getId().size(); i++) {
-						id = sitesListPendingWorkList.getId().get(i).toString();
-						workid = sitesListPendingWorkList.getWorkId().get(i).toString();
-						schemeid = sitesListPendingWorkList.getSchemeId().get(i).toString();
-						schemegrouppname = sitesListPendingWorkList.getSchemeGroupName().get(i)
-								.toString();
-						scheme = sitesListPendingWorkList.getScheme().get(i).toString();
-						financialyear = sitesListPendingWorkList.getFinancialYear().get(i)
-								.toString();
-						agencyname = sitesListPendingWorkList.getAgencyName().get(i).toString();
-						workgroupname = sitesListPendingWorkList.getWorkGroupName().get(i)
-								.toString();
-						workgroupid = sitesListPendingWorkList.getWorkGroupId().get(i).toString();
-						workname = sitesListPendingWorkList.getWorkName().get(i).toString();
-						worktypeid = sitesListPendingWorkList.getWorkTypeId().get(i).toString();
-						block = sitesListPendingWorkList.getBlock().get(i).toString();
-						village = sitesListPendingWorkList.getVillage().get(i).toString();
-						villagecode = sitesListPendingWorkList.getVillageCode().get(i).toString();
-						stagename = sitesListPendingWorkList.getStageName().get(i).toString();
-						currentstageofwork = sitesListPendingWorkList.getCurrentStageOfWork()
-								.get(i).toString();
-						beneficiaryname = sitesListPendingWorkList.getBeneficiaryName().get(i).toString();
-						beneficiaryfhname = sitesListPendingWorkList.getBeneficiaryFatherName().get(i).toString();
-						worktypname = sitesListPendingWorkList.getWorkTypeName().get(i).toString();
-						beneficiarygender = sitesListPendingWorkList.getBeneficiarygender().get(i).toString();
-						if(beneficiarygender.equals("1")){
-							beneficiarygender = "Male";
-						}else{
-							beneficiarygender = "Female";
-						}
-						beneficiarycommunity = sitesListPendingWorkList.getBeneficiarycommunity().get(i).toString();
-						initalamount = sitesListPendingWorkList.getInitialAmount().get(i).toString();
-						amountspentsofar = sitesListPendingWorkList.getAmountSpentSoFar().get(i).toString();
-						updated_date = sitesListPendingWorkList.getUpdateDate().get(i).toString();
+					if(sitesListPendingWorkList != null) {
+						for (int i = 0; i < sitesListPendingWorkList.getId().size(); i++) {
+							id = sitesListPendingWorkList.getId().get(i).toString();
+							workid = sitesListPendingWorkList.getWorkId().get(i).toString();
+							schemeid = sitesListPendingWorkList.getSchemeId().get(i).toString();
+							schemegrouppname = sitesListPendingWorkList.getSchemeGroupName().get(i)
+									.toString();
+							scheme = sitesListPendingWorkList.getScheme().get(i).toString();
+							financialyear = sitesListPendingWorkList.getFinancialYear().get(i)
+									.toString();
+							agencyname = sitesListPendingWorkList.getAgencyName().get(i).toString();
+							workgroupname = sitesListPendingWorkList.getWorkGroupName().get(i)
+									.toString();
+							workgroupid = sitesListPendingWorkList.getWorkGroupId().get(i).toString();
+							workname = sitesListPendingWorkList.getWorkName().get(i).toString();
+							worktypeid = sitesListPendingWorkList.getWorkTypeId().get(i).toString();
+							block = sitesListPendingWorkList.getBlock().get(i).toString();
+							village = sitesListPendingWorkList.getVillage().get(i).toString();
+							villagecode = sitesListPendingWorkList.getVillageCode().get(i).toString();
+							stagename = sitesListPendingWorkList.getStageName().get(i).toString();
+							currentstageofwork = sitesListPendingWorkList.getCurrentStageOfWork()
+									.get(i).toString();
+							beneficiaryname = sitesListPendingWorkList.getBeneficiaryName().get(i).toString();
+							beneficiaryfhname = sitesListPendingWorkList.getBeneficiaryFatherName().get(i).toString();
+							worktypname = sitesListPendingWorkList.getWorkTypeName().get(i).toString();
+							beneficiarygender = sitesListPendingWorkList.getBeneficiarygender().get(i).toString();
+							if (beneficiarygender.equals("1")) {
+								beneficiarygender = "Male";
+							} else {
+								beneficiarygender = "Female";
+							}
+							beneficiarycommunity = sitesListPendingWorkList.getBeneficiarycommunity().get(i).toString();
+							initalamount = sitesListPendingWorkList.getInitialAmount().get(i).toString();
+							amountspentsofar = sitesListPendingWorkList.getAmountSpentSoFar().get(i).toString();
+							updated_date = sitesListPendingWorkList.getUpdateDate().get(i).toString();
 
-						insertDataValue2(id, workid, schemegrouppname, schemeid, scheme,
-								financialyear, agencyname, workgroupname,
-								workgroupid, workname, worktypeid, block, village,
-								villagecode, stagename, currentstageofwork, beneficiaryname, 
-								beneficiaryfhname,worktypname,beneficiarygender,beneficiarycommunity,
-								initalamount,amountspentsofar,
-								updated_date);
-						
-						insertDataValue3(workid,villagecode);
-						
-						Intent in = new Intent(VillageList.this, PendingWorkList.class);
-						in.putExtra("vcode", pv);
-						in.putExtra("mode", "manual");
-						startActivity(in);
+							insertDataValue2(id, workid, schemegrouppname, schemeid, scheme,
+									financialyear, agencyname, workgroupname,
+									workgroupid, workname, worktypeid, block, village,
+									villagecode, stagename, currentstageofwork, beneficiaryname,
+									beneficiaryfhname, worktypname, beneficiarygender, beneficiarycommunity,
+									initalamount, amountspentsofar,
+									updated_date);
+
+							insertDataValue3(workid, villagecode);
+
+							Intent in = new Intent(VillageList.this, PendingWorkList.class);
+							in.putExtra("vcode", pv);
+							in.putExtra("mode", "manual");
+							startActivity(in);
+						}
 					}
 				}catch(Exception e){
 					Toast.makeText(getApplicationContext(), "No Record", Toast.LENGTH_LONG).show();

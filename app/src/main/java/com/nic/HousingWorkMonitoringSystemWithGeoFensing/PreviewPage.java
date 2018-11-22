@@ -249,7 +249,7 @@ public class PreviewPage extends Activity implements OnClickListener  {
 		}
 
 		protected String doInBackground(String... urls) {
-			PostMethod po = new PostMethod(getApplicationContext(), "http://www.tnrd.gov.in/project/webservices_forms/sample_photo.php");
+			PostMethod po = new PostMethod(getApplicationContext(), "https://www.tnrd.gov.in/project/webservices_forms/sample_photo.php");
 			//PostMethod po = new PostMethod(getApplicationContext(), "http://10.163.14.137/rdwebtraining/project_new/webservices_forms/sample_photo.php");
 			response = po.post();
 			//Log.d("Response", response);

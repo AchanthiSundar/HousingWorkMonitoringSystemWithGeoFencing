@@ -10,6 +10,8 @@ import org.xml.sax.SAXException;
 import org.xml.sax.XMLReader;
 import Util.NetworkUtil;
 import Util.PlaceDataSQL;
+
+import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -19,6 +21,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
+import android.content.pm.PackageManager;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.location.LocationListener;
@@ -28,6 +31,7 @@ import android.net.NetworkInfo;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.preference.PreferenceManager;
+import android.support.v4.app.ActivityCompat;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.text.Html;
@@ -42,28 +46,28 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class LoginScreen extends Activity implements OnClickListener {
-	
+
 	//Used to check internet Connection..
-    ConnectivityManager cm;
-    NetworkInfo networkInfo;
-    
-    /* Location Manager for GPS */
-    LocationManager mlocManager=null;
+	ConnectivityManager cm;
+	NetworkInfo networkInfo;
+
+	/* Location Manager for GPS */
+	LocationManager mlocManager = null;
 	LocationListener mlocListener;
 	AlertDialog.Builder alert;
-     
+
 	/* To get Mobile Details */
-	String imei ; 
-    String sb;
-    
-    //To get Mobile details
-    TelephonyManager telephonyManager;
+	String imei;
+	String sb;
+
+	//To get Mobile details
+	TelephonyManager telephonyManager;
 	PhoneStateListener listener;
-	
-	EditText username,password;
+
+	EditText username, password;
 	Button login;
-	String name,pass;
-    
+	String name, pass;
+
 	//To Show Progressbar While Logging in
 	private ProgressDialog mProgressDialog;
 	public static final int DIALOG_DOWNLOAD_PROGRESS = 0;
@@ -71,66 +75,78 @@ public class LoginScreen extends Activity implements OnClickListener {
 	//add parameter and its corresponding value for postmethod
 	ArrayList<String> al_param = new ArrayList<String>();
 	ArrayList<String> al_param_value = new ArrayList<String>();
-	
+
 	public static PlaceDataSQL placeData;
 	public static SQLiteDatabase db;
 	InputSource is;
-	
-	String login_url = "http://www.tnrd.gov.in/project/webservices_forms/scheme_monitoring_login_services.php";
+
+	String login_url = "https://www.tnrd.gov.in/project/webservices_forms/scheme_monitoring_login_services.php";
 	//String login_url = "http://10.163.14.137/rdwebtraining/project_new/webservices_forms/scheme_monitoring_login_services.php";
-	
+
 	static SharedPreferences preferences;
 	Context context;
-	
+
 	static SharedPreferences sharedpreferences;
 	static String pref_username;
 	//static String pref_password;
-	
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-        
-        requestWindowFeature(Window.FEATURE_NO_TITLE);  
-        setContentView(R.layout.login_screen);
-        
-        context = this;
-        try {
+
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+
+		requestWindowFeature(Window.FEATURE_NO_TITLE);
+		setContentView(R.layout.login_screen);
+
+		context = this;
+		try {
 			placeData = new PlaceDataSQL(this);
 			db = placeData.getWritableDatabase();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-        sharedpreferences = getSharedPreferences("mypreferences", Context.MODE_PRIVATE);
-        pref_username = sharedpreferences.getString("username", null);
-	    initialise();
-	    getMobileDetails();
-	    
-    }
+		sharedpreferences = getSharedPreferences("mypreferences", Context.MODE_PRIVATE);
+		pref_username = sharedpreferences.getString("username", null);
+		initialise();
+		getMobileDetails();
+
+	}
 
 	private void getMobileDetails() {
 		telephonyManager = (TelephonyManager) getSystemService(Context.TELEPHONY_SERVICE);
+		if (ActivityCompat.checkSelfPermission(this, Manifest.permission.READ_PHONE_STATE) != PackageManager.PERMISSION_GRANTED) {
+			// TODO: Consider calling
+			//    ActivityCompat#requestPermissions
+			// here to request the missing permissions, and then overriding
+			//   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+			//                                          int[] grantResults)
+			// to handle the case where the user grants the permission. See the documentation
+			// for ActivityCompat#requestPermissions for more details.
+			return;
+		}
 		imei = telephonyManager.getDeviceId();
 	}
 
 	public void onClick(View v) {
-		
+
 		if (v.equals(login)) {
-			try{
-				loginMethod(username.getText().toString(),password.getText().toString());
-			} catch(Exception e){
+			try {
+				loginMethod(username.getText().toString(), password.getText().toString());
+			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		}
 	}
+
 	@Override
-	public void onResume(){
+	public void onResume() {
 		super.onResume();
 	}
-	private void loginMethod(String usrname,String passwrd) {
-		getUsernameAndPassword(usrname,passwrd);
+
+	private void loginMethod(String usrname, String passwrd) {
+		getUsernameAndPassword(usrname, passwrd);
 		if ((name.equals("") && pass.equals(""))) {
 			username.setFocusableInTouchMode(true);
 			username.requestFocus();
-			username.setError(Html.fromHtml("<font color='#FF0000'>Please Enter UserName</font>"));		
+			username.setError(Html.fromHtml("<font color='#FF0000'>Please Enter UserName</font>"));
 		} else if (name.equals("")) {
 			username.setFocusableInTouchMode(true);
 			username.requestFocus();
@@ -140,13 +156,23 @@ public class LoginScreen extends Activity implements OnClickListener {
 			password.requestFocus();
 			password.setError(Html.fromHtml("<font color='#FF0000'>Please Enter Password</font>"));
 		} else {
-			if(NetworkUtil.isNetworkAvailable(getApplicationContext())) {
-				alert  = new AlertDialog.Builder(LoginScreen.this);
+			if (NetworkUtil.isNetworkAvailable(getApplicationContext())) {
+				alert = new AlertDialog.Builder(LoginScreen.this);
 				alert.setCancelable(true);
-	 	    		 
-				mlocManager = (LocationManager)getSystemService(Context.LOCATION_SERVICE);
+
+				mlocManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
 				mlocListener = new MyLocationListener();
-				mlocManager.requestLocationUpdates( LocationManager.GPS_PROVIDER, 0, 0, mlocListener);
+				if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+					// TODO: Consider calling
+					//    ActivityCompat#requestPermissions
+					// here to request the missing permissions, and then overriding
+					//   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+					//                                          int[] grantResults)
+					// to handle the case where the user grants the permission. See the documentation
+					// for ActivityCompat#requestPermissions for more details.
+					return;
+				}
+				mlocManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 0, 0, mlocListener);
 				
 				if (mlocManager.isProviderEnabled(LocationManager.GPS_PROVIDER)) {
 					try{

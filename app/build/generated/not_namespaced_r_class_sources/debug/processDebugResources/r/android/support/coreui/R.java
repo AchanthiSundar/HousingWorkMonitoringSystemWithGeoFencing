@@ -93,16 +93,16 @@ public final class R {
         public static final int italic = 0x7f060049;
         public static final int line1 = 0x7f06004c;
         public static final int line3 = 0x7f06004d;
-        public static final int normal = 0x7f060064;
-        public static final int notification_background = 0x7f060065;
-        public static final int notification_main_column = 0x7f060066;
-        public static final int notification_main_column_container = 0x7f060067;
-        public static final int right_icon = 0x7f060075;
-        public static final int right_side = 0x7f060076;
-        public static final int text = 0x7f060084;
-        public static final int text2 = 0x7f060085;
-        public static final int time = 0x7f060091;
-        public static final int title = 0x7f060092;
+        public static final int normal = 0x7f060065;
+        public static final int notification_background = 0x7f060066;
+        public static final int notification_main_column = 0x7f060067;
+        public static final int notification_main_column_container = 0x7f060068;
+        public static final int right_icon = 0x7f060076;
+        public static final int right_side = 0x7f060077;
+        public static final int text = 0x7f060085;
+        public static final int text2 = 0x7f060086;
+        public static final int time = 0x7f060092;
+        public static final int title = 0x7f060093;
     }
     public static final class integer {
         private integer() {}
