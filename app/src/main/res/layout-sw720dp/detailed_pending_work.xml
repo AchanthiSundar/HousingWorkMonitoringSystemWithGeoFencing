@@ -228,7 +228,7 @@
                 </RelativeLayout>
 
                 <RelativeLayout
-                    android:id="@+id/relative6"
+                    
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_below="@+id/relative4"
@@ -257,7 +257,7 @@
                 </RelativeLayout>
 
                 <RelativeLayout
-                    android:id="@+id/relative6"
+                    
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_below="@+id/relative4"
@@ -286,7 +286,7 @@
                 </RelativeLayout>
 
                 <RelativeLayout
-                    android:id="@+id/relative6"
+                    
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_below="@+id/relative4"
@@ -314,7 +314,7 @@
                 </RelativeLayout>
 
                 <RelativeLayout
-                    android:id="@+id/relative6"
+                    
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_below="@+id/relative4"

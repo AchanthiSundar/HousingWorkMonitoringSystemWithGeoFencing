@@ -100,12 +100,12 @@
         "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\pending_work_listitem.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_village_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\village_list.xml"
-    },
-    {
         "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_preview_page.xml.flat",
         "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\preview_page.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_village_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\village_list.xml"
     },
     {
         "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",

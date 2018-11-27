@@ -31,10 +31,10 @@
             ]
         },
         {
-            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values-sw\\values-sw.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -46,10 +46,10 @@
             ]
         },
         {
-            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\values-sw_values-sw.arsc.flat",
+            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\values-pt-rPT_values-pt-rPT.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values-sw\\values-sw.xml",
+                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values-pt-rPT\\values-pt-rPT.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
