@@ -29,6 +29,7 @@
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.LoginScreen"
             android:label="@string/title_activity_login_screen"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -38,34 +39,42 @@
         </activity>
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.Dashboard"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.VillageList"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.PendingWorkList"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.DetailedPendingWork"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.PendingWorkDetailSpinner"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.PreviewPage"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.PendingUpload"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.Upgradeapk"
+            android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
             android:windowSoftInputMode="stateUnchanged|adjustPan" />

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\values-v24\\values-v24.xml",

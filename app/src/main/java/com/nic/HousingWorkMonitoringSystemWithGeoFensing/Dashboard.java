@@ -383,7 +383,7 @@ public class Dashboard extends Activity implements OnClickListener {
 
 		protected String doInBackground(String... urls) {
 			try {
-				PostMethod po = new PostMethod(getApplicationContext(), "http://10.163.29.109/rd_service/find_workids.php");
+				PostMethod po = new PostMethod(getApplicationContext(), "https://www.tnrd.gov.in/rd_service/find_workids.php");
 				String sb = po.post1();
 				Log.d("LOG_TAG", sb);
 

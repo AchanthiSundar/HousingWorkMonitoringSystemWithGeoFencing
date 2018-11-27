@@ -244,7 +244,7 @@ public class VillageList extends Activity {
 
 				PostMethod po = new PostMethod(getApplicationContext(),
 						"https://www.tnrd.gov.in/project/webservices_forms/scheme_monitoring_system.php");
-				
+
 				/*PostMethod po = new PostMethod(getApplicationContext(),
 						"http://10.163.14.137/rdwebtraining/project_new/webservices_forms/scheme_monitoring_system.php");*/
 				response1 = po.post();
@@ -287,6 +287,8 @@ public class VillageList extends Activity {
 			
 			if(response1.equals("DB Error: no such field")){
 				Toast.makeText(getApplicationContext(), response1, Toast.LENGTH_LONG).show();	
+			}else if(response1.equals("No record Found")){
+				Toast.makeText(getApplicationContext(), response1, Toast.LENGTH_LONG).show();
 			}else{
 				String id = "",
 						workid = "", 
@@ -427,7 +429,7 @@ public class VillageList extends Activity {
 
 		LoginScreen.db.insert("pendingworks", null, values);
 	}
-	
+
 	private Cursor getRawEvents(String sql, String string) {
 		
 		Cursor cursor = LoginScreen.db.rawQuery(sql, null);

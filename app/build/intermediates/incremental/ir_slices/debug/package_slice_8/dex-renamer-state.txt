@@ -1,4 +1,0 @@
-#Thu Nov 22 12:53:00 IST 2018
-base.0=D\:\\AndroidPrjt\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\8
-path.0=classes.dex
-renamed.0=classes.dex

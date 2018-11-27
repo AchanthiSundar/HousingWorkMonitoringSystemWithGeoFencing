@@ -300,7 +300,7 @@ public class PreviewPage extends Activity implements OnClickListener  {
 		default:
 			return null;
 		}
-	}	
+	}
 	private Cursor getRawEvents(String sql, String string) {
 		SQLiteDatabase db = (placeData).getReadableDatabase();
 		Cursor cursor = db.rawQuery(sql, null);

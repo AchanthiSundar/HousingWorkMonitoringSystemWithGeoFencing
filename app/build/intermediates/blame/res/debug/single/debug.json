@@ -1,474 +1,458 @@
 [
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_header_view.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\header_view.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\background.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_header_view.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\header_view.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pw.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\pw.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_work_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\pending_work_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selector.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\selector.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_firmware_upgrade_prgress.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\firmware_upgrade_prgress.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tamilnadu_logo.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\tamilnadu_logo.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_dash_board.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\dash_board.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_select_stage.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\select_stage.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_upload.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\pending_upload.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_spinner_value.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\spinner_value.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_work_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\pending_work_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pending_uploads.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\pending_uploads.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_action.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_stage.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\select_stage.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_selector.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pw.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\pw.png"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_road_resize.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\road_resize.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_action.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_template_part_time.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_preview_page.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\preview_page.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable\\notification_icon_background.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_work_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\pending_work_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\home_icon.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_selector.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\button_selector.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_village_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\village_list.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_spinner_value.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\spinner_value.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_detailed_pending_work.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\detailed_pending_work.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_value.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\spinner_value.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_button_selector.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\back_button_selector.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buuton_hover.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\buuton_hover.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_action_tombstone.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gradient_bg.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\gradient_bg.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_dash_board.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\dash_board.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-v21\\notification_action_background.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_upload_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\pending_upload_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_login_screen.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\login_screen.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_normal.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\button_normal.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_village_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\village_list.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_media_custom.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_detailed_pending_work.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\detailed_pending_work.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_footer.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\footer.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_upload.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\pending_upload.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_firmware_upgrade_prgress.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\firmware_upgrade_prgress.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_work_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\pending_work_list.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_select_stage.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\select_stage.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_housing.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\housing.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_work_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\pending_work_list.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\menu_context_menu.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\menu\\context_menu.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_work_listitem.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\pending_work_listitem.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_login_screen.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\login_screen.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_lines_media.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_work_listitem.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\pending_work_listitem.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_upload.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\pending_upload.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_village_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\village_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_place.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\find_place.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\header.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_work_listitem.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\pending_work_listitem.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\footer.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_upload_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\pending_upload_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\avatar.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\menu_login_screen.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\menu\\login_screen.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable\\notification_tile_bg.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_preview_page.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\preview_page.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_detailed_pending_work.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\detailed_pending_work.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_media_action.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_context_menu.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\menu\\context_menu.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_dash_board.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\dash_board.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_dash_board.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\dash_board.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_view.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\header_view.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pending_uploads.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\pending_uploads.png"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_screen.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\login_screen.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_template_icon_group.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_media.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_footer.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\footer.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_preview_page.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\preview_page.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_village_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\village_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_village_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\village_list_item.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_detailed_pending_work.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\detailed_pending_work.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\footer.xml"
-    },
-    {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_work_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout\\pending_work_list.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_work_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\pending_work_list_item.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_upload.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\pending_upload.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_detailed_pending_work.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\detailed_pending_work.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\menu_login_screen.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\menu\\login_screen.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_work_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\pending_work_list.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_upload_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\pending_upload_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_login_screen.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\login_screen.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_firmware_upgrade_prgress.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\firmware_upgrade_prgress.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_housing.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\housing.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_work_listitem.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\pending_work_listitem.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_village_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\village_list.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_preview_page.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\preview_page.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_footer.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\footer.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_normal.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\back_normal.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_preview_page.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\preview_page.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tamilnadu_logo.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\tamilnadu_logo.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_village_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\village_list.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gradient_bg_hover.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_stage.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\select_stage.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_village_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\village_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_village_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\village_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_buuton_hover.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\buuton_hover.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_dash_board.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\dash_board.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_login_screen.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\login_screen.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_work_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\pending_work_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_work_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\pending_work_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_footer.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\footer.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_avatar.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\avatar.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_road_resize.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\road_resize.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_header_view.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\header_view.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_header_view.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\header_view.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_upload.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\pending_upload.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_firmware_upgrade_prgress.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\firmware_upgrade_prgress.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_work_listitem.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\pending_work_listitem.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_village_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\village_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_dash_board.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\dash_board.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_normal.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\button_normal.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_work_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\pending_work_list.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_spinner_value.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\spinner_value.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_place.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\find_place.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_upload_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\pending_upload_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_upload_list_item.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\pending_upload_list_item.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_select_stage.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\select_stage.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_work_listitem.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\pending_work_listitem.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_firmware_upgrade_prgress.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\firmware_upgrade_prgress.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_footer.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\footer.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gradient_bg.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\gradient_bg.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_hover.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\back_hover.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_detailed_pending_work.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\detailed_pending_work.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_selector.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\selector.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_pending_upload.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\pending_upload.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_village_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\village_list.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pu.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\pu.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_login_screen.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\login_screen.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pu.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\pu.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_selector.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\list_selector.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_pending_upload_list_item.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\pending_upload_list_item.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_select_stage.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\select_stage.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_app_icon.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\app_icon.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back_button_selector.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\back_button_selector.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_normal.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\back_normal.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_header_view.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\header_view.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_firmware_upgrade_prgress.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw720dp\\firmware_upgrade_prgress.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_pending_work_list.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\pending_work_list.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_hover.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable\\back_hover.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_footer.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw600dp\\footer.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_gradient_bg_hover.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\gradient_bg_hover.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_preview_page.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\preview_page.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_button_selector.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-mdpi\\button_selector.xml"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp_village_list.xml.flat",
-        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\src\\main\\res\\layout-sw600dp\\village_list.xml"
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
-        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_NEW\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw720dp_spinner_value.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout-sw720dp\\spinner_value.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.0.aar\\d9b5d7bf09f07b3069b1fe194ce0808d\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_value.xml.flat",
+        "source": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\src\\main\\res\\layout\\spinner_value.xml"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     }
 ]
