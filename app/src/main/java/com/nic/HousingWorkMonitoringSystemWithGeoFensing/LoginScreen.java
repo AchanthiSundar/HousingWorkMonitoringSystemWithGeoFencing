@@ -13,6 +13,7 @@ import org.xml.sax.XMLReader;
 
 import Util.NetworkUtil;
 import Util.PlaceDataSQL;
+import Util.Utils;
 
 import android.Manifest;
 import android.app.Activity;
@@ -42,11 +43,14 @@ import android.support.v4.content.ContextCompat;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
 import android.text.Html;
+import android.text.InputType;
 import android.util.Base64;
 import android.util.Log;
+import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
+import android.view.inputmethod.EditorInfo;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
@@ -107,7 +111,7 @@ public class LoginScreen extends Activity implements OnClickListener {
         super.onCreate(savedInstanceState);
 
         requestWindowFeature(Window.FEATURE_NO_TITLE);
-        setContentView(R.layout.login_screen);
+        setContentView(R.layout.activity_login);
         runnable = new Runnable() {
             @Override
             public void run() {
@@ -117,13 +121,6 @@ public class LoginScreen extends Activity implements OnClickListener {
                             != PackageManager.PERMISSION_GRANTED) {
                         requestPermissions(new String[]{Manifest.permission.READ_PHONE_STATE},
                                 PERMISSIONS_REQUEST_READ_PHONE_STATE);
-                     Runnable  runnable = new Runnable() {
-                            @Override
-                            public void run() {
-                                getMobileDetails();
-
-                            }
-                        };myhandler.postDelayed(runnable,4000);
 
                     } else {
                         getMobileDetails();
@@ -134,7 +131,7 @@ public class LoginScreen extends Activity implements OnClickListener {
                         public void run() {
                             getMobileDetails();
                         }
-                    };myhandler.postDelayed(runnable,4000);
+                    };myhandler.postDelayed(runnable,2000);
 
                 }
             }
@@ -172,6 +169,7 @@ public class LoginScreen extends Activity implements OnClickListener {
         if (v.equals(login)) {
             try {
                 loginMethod(username.getText().toString(), password.getText().toString());
+                getMobileDetails();
             } catch (Exception e) {
                 e.printStackTrace();
             }
@@ -184,19 +182,25 @@ public class LoginScreen extends Activity implements OnClickListener {
     }
 
     private void loginMethod(String usrname, String passwrd) {
+        getMobileDetails();
         getUsernameAndPassword(usrname, passwrd);
         if ((name.equals("") && pass.equals(""))) {
             username.setFocusableInTouchMode(true);
-            username.requestFocus();
-            username.setError(Html.fromHtml("<font color='#FF0000'>Please Enter UserName</font>"));
+            Utils.showAlert(LoginScreen.this,"Please Enter UserName");
+//            username.requestFocus();
+//            username.setError(Html.fromHtml("<font color='#FF0000'>Please Enter UserName</font>"));
         } else if (name.equals("")) {
             username.setFocusableInTouchMode(true);
-            username.requestFocus();
-            username.setError(Html.fromHtml("<font color='#FF0000'>Please Enter UserName</font>"));
+            Utils.showAlert(LoginScreen.this,"Please Enter UserName");
+
+//            username.requestFocus();
+//            username.setError(Html.fromHtml("<font color='#FF0000'>Please Enter UserName</font>"));
         } else if (pass.equals("")) {
             password.setFocusableInTouchMode(true);
-            password.requestFocus();
-            password.setError(Html.fromHtml("<font color='#FF0000'>Please Enter Password</font>"));
+            Utils.showAlert(LoginScreen.this,"Please Enter Password");
+
+//            password.requestFocus();
+//            password.setError(Html.fromHtml("<font color='#FF0000'>Please Enter Password</font>"));
         } else {
             if (NetworkUtil.isNetworkAvailable(getApplicationContext())) {
                 alert = new AlertDialog.Builder(LoginScreen.this);
@@ -353,7 +357,7 @@ public class LoginScreen extends Activity implements OnClickListener {
         al_param_value.add(name.trim());
         al_param_value.add(pass.trim());
         Log.d("imei",""+imei);
-        Log.d("imeitrim",""+imei.trim());
+//        Log.d("imeitrim",""+imei.trim());
         try {
             if (!imei.equalsIgnoreCase("null") || imei!= null) {
                 al_param_value.add(imei.trim());
@@ -479,18 +483,13 @@ public class LoginScreen extends Activity implements OnClickListener {
                 finish();
             } else if (sb.contains("invalid")) {
 
-                AlertDialog.Builder ab = new AlertDialog.Builder(LoginScreen.this);
-                ab.setMessage("Invalid UserName OR Password ");
+
+                Utils.showAlert(LoginScreen.this,"Invalid UserName OR Password ");
 //       	   	if(pref_username!=null){
 //				SharedPreferences settings = getSharedPreferences("mypreferences", Context.MODE_PRIVATE);
 //				settings.edit().putString("username", username.getText().toString()).commit();
 //			}
-                ab.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int whichButton) {
 
-                    }
-                });
-                ab.show();
             } else if (sb.contains("Message")) {
                 downloadDialog(sb);
             }
@@ -509,9 +508,26 @@ public class LoginScreen extends Activity implements OnClickListener {
         login = (Button) findViewById(R.id.login);
         login.setOnClickListener(this);
 
-        TextView txt_footer = (TextView) findViewById(R.id.headtext1);
-        txt_footer.setText("");
-        myhandler.postDelayed(runnable,3000);
+        password.setInputType(InputType.TYPE_CLASS_TEXT | InputType.TYPE_TEXT_VARIATION_PASSWORD);
+        password.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+            public boolean onEditorAction(TextView v, int actionId, KeyEvent event) {
+                if ((event != null && (event.getKeyCode() == KeyEvent.KEYCODE_ENTER)) || (actionId == EditorInfo.IME_ACTION_DONE)) {
+                    loginMethod(username.getText().toString(), password.getText().toString());
+                }
+                return false;
+            }
+        });
+
+//        TextView txt_footer = (TextView) findViewById(R.id.headtext1);
+//        txt_footer.setText("");
+        myhandler.postDelayed(runnable,5000);
+        Runnable  runnable = new Runnable() {
+            @Override
+            public void run() {
+                getMobileDetails();
+
+            }
+        };myhandler.postDelayed(runnable,2000);
 
 
     }

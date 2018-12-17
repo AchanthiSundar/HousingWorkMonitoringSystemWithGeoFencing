@@ -131,11 +131,19 @@ public class DetailedPendingWork extends Activity implements OnClickListener{
 			Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 			startActivity(Pendingwork);
 			finish();
+			super.onBackPressed();
+			overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 		}
 
 		if (v.equals(back)) {
-			finish();
+			onBackPress();
 		}
+	}
+
+	public void onBackPress(){
+		super.onBackPressed();
+		setResult(Activity.RESULT_CANCELED);
+		overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 	}
 	private Cursor getRawEvents(String sql, String string) {
 		SQLiteDatabase db = (placeData).getReadableDatabase();

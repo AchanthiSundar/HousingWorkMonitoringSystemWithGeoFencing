@@ -31,11 +31,12 @@ import android.view.Window;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.EditText;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class VillageList extends Activity {
+public class VillageList extends Activity implements View.OnClickListener {
 
 	static final String KEY_VCODE = "vcode";
 	static final String KEY_VNAME_ENG = "vnameEng";
@@ -67,7 +68,8 @@ public class VillageList extends Activity {
 	static final String KEY_LAST_VISITED_DATE = "upddate";
 	
 	ListView list_view;
-	TextView service_provider;
+	ImageView home_img,back_img;
+	TextView service_provider,title;
 	EditText ed_searchVillage;
 	ArrayList<HashMap<String, String>> menuItems;
 	SitesListPendingWorkList sitesListPendingWorkList;
@@ -89,6 +91,12 @@ public class VillageList extends Activity {
 		service_provider = (TextView) findViewById(R.id.footertxt);
 		ed_searchVillage = (EditText) findViewById(R.id.ed_searchVillage);
 		ed_searchVillage.addTextChangedListener(new offTextWatcher(ed_searchVillage));
+		home_img = (ImageView) findViewById(R.id.homeimg);
+		home_img.setOnClickListener(this);
+		back_img = (ImageView)findViewById(R.id.backimg);
+		title = (TextView)findViewById(R.id.title_tv);
+		title.setText("VillageList");
+		back_img.setOnClickListener(this);
 
 		if(NetworkUtil.isNetworkAvailable(getApplicationContext())){
 			viewVillageList();
@@ -153,9 +161,11 @@ public class VillageList extends Activity {
 
 	private void listView() {
 		list_view = (ListView) findViewById(R.id.list);
+
+
 		ColorDrawable divcolor = new ColorDrawable(Color.DKGRAY);
-		list_view.setDivider(divcolor);
-		list_view.setDividerHeight(0);
+		list_view.setDivider(getResources().getDrawable(R.drawable.divider));
+		list_view.setDividerHeight(1);
 		list_view.setSmoothScrollbarEnabled(true);
 		list_view.setFooterDividersEnabled(true);
 
@@ -513,5 +523,31 @@ public class VillageList extends Activity {
 		default:
 			return null;
 		}
+	}
+	public void onClick(View v) {
+
+		 if(v.equals(home_img)) {
+			Intent Pendingwork = new Intent(VillageList.this,Dashboard.class);
+			 Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
+			startActivity(Pendingwork);
+			finish();
+			super.onBackPressed();
+			 overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
+
+		 } if(v.equals(back_img)) {
+			onBackPress();
+		}
+
+
+	}
+	public void onBackPress(){
+		super.onBackPressed();
+		setResult(Activity.RESULT_CANCELED);
+		overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
+	}
+
+	@Override
+	public void onBackPressed(){
+		onBackPress();
 	}
 }

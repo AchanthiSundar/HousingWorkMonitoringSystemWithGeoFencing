@@ -4,12 +4,20 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/background" >
+    <include
+        android:id="@+id/toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="bottom"
+        layout="@layout/toolbar_with_center_title" />
 
     <include
         android:id="@+id/header"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentTop="true"
+        android:layout_below="@+id/toolbar"
+
         layout="@layout/header_view" />
 
     <include
@@ -38,20 +46,20 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content" >
 
-                <ImageView
-                    android:id="@+id/back_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp"
-                    android:src="@drawable/back_button_selector" />
+                <!--<ImageView-->
+                    <!--android:id="@+id/back_button"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_marginLeft="5dp"-->
+                    <!--android:layout_marginTop="5dp"-->
+                    <!--android:src="@drawable/back_button_selector" />-->
 
-                <ImageView
-                    android:id="@+id/home_button"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_alignParentRight="true"
-                    android:src="@drawable/home_icon" />
+                <!--<ImageView-->
+                    <!--android:id="@+id/home_button"-->
+                    <!--android:layout_width="wrap_content"-->
+                    <!--android:layout_height="wrap_content"-->
+                    <!--android:layout_alignParentRight="true"-->
+                    <!--android:src="@drawable/home_icon" />-->
 
                 <TextView
                     android:id="@+id/tv_workidspin_workId"
@@ -228,7 +236,12 @@
         android:layout_alignParentLeft="true"
         android:layout_marginBottom="10dp"
         android:gravity="center" >
-
+
+
+
+
+
+
         <Button
             android:id="@+id/but_workidspin_save"
             android:layout_width="wrap_content"
@@ -239,7 +252,11 @@
             android:background="@drawable/button_selector"
             android:text="  Upload Later  "
             android:textSize="15dp" />
-
+
+
+
+
+
         <Button
             android:id="@+id/but_workidspin_upload"
             android:layout_width="wrap_content"

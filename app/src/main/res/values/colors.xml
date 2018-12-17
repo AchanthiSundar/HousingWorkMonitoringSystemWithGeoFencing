@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262628</color>
+    <color name="colorPrimaryDark">#0F0F0F</color>
+    <color name="colorAccent">#ED403F</color>
+    <color name="side_menu_bg_color">#191919</color>
+    <color name="app_bg">#343434</color>
+    <color name="dashboard_color_1">#288BCF</color>
+    <color name="dashboard_color_2">#E89C19</color>
+    <color name="dashboard_color_3">#35B37D</color>
+    <color name="dashboard_color_4">#D6383F</color>
+    <color name="red_color">#ED403F</color>
+    <color name="light_grey">#F7F7F7</color>
+    <color name="header_color">#F4F5F9</color>
+    <color name="report_red_color">#ED403F</color>
+    <color name="text_color">#939498</color>
+    <color name="fastScrollHandleColor">#FFF</color>
+    <color name="fastScrollBarColor">#ffcecece</color>
+
+    <color name="yellow_color">#FFEB3B</color>
+    <color name="gateway_red_color">#FF5252</color>
+    <color name="green_color">#8BC34A</color>
+
+    <color name="dpd_yellow_color">#E3CB2E</color>
+    <color name="dpd_red_color">#F17B5D</color>
+    <color name="dpd_green_color">#70AC60</color>
+
+    <color name="darker_grey">#727272</color>
+    <color name="dark_gray">#666666</color>
+
+    <color name="dsb_progress_color">#ff009688</color>
+    <color name="dsb_track_color">#ff939393</color>
+    <color name="dsb_disabled_color">#66939393</color>
+    <color name="dsb_ripple_color_pressed">#77939393</color>
+    <color name="dsb_ripple_color_focused">#99999999</color>
+
+    <color name="reporting_header">#A0FC9D</color>
+    <color name="not_reporting_header">#F59B9D</color>
+</resources>

@@ -5,7 +5,7 @@
     android:id="@+id/LinearLayout01"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="@drawable/background"
+    android:background="@drawable/nimble_background_white"
     android:orientation="vertical" >
 
     <include
@@ -41,7 +41,8 @@
             android:gravity="left"
             android:text=""
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textColor="#000000" />
+            android:textColor="#000000"
+            style="@style/font_normal" />
 
         <TextView
             android:id="@+id/designation"
@@ -52,7 +53,8 @@
             android:layout_toRightOf="@+id/emp_photo"
             android:text=""
             android:textAppearance="?android:attr/textAppearanceSmall"
-            android:textColor="#000000" />
+            android:textColor="#000000"
+            style="@style/font_normal" />
 
         <ImageView
             android:id="@+id/imageView"
@@ -110,10 +112,10 @@
 
             <ImageView
                 android:id="@+id/listimage2"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
                 android:layout_marginLeft="10dp"
-                android:src="@drawable/housing" />
+                android:src="@mipmap/dashboard_icon" />
 
             <TextView
                 android:id="@+id/pendingWorks"
@@ -123,7 +125,8 @@
                 android:text="Select Housing Work Manually"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@drawable/selector"
-                android:textStyle="bold" />
+                android:textSize="@dimen/_15sdp"
+                style="@style/font_circular_book"/>
 
             <TextView
                 android:id="@+id/pendingWorksCount"
@@ -144,23 +147,24 @@
 
             <ImageView
                 android:id="@+id/listimage3"
-                android:layout_width="40dp"
-                android:layout_height="40dp"
-                android:layout_marginLeft="10dp"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_marginLeft="15dp"
                 android:src="@drawable/pending_uploads" />
 
             <TextView
                 android:id="@+id/pendingUploads"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="10dip"
+                android:layout_marginLeft="10dp"
                 android:gravity="center"
                 android:layout_toRightOf="@+id/listimage3"
                 android:text="Pending Uploads"
                 android:layout_centerVertical="true"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@drawable/selector"
-                android:textStyle="bold" />
+                android:textSize="@dimen/_15sdp"
+                style="@style/font_circular_book"/>
 
             <TextView
                 android:id="@+id/pendingUploadCount"
@@ -189,6 +193,8 @@
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
             android:text="Previous Visit Date :"
+            android:textSize="@dimen/_15sdp"
+            style="@style/font_circular_book"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textColor="#FF0000" />
 
@@ -197,6 +203,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="10dp"
+            android:textSize="@dimen/_15sdp"
+            style="@style/font_circular_book"
             android:text=""
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textColor="#ff0000" />

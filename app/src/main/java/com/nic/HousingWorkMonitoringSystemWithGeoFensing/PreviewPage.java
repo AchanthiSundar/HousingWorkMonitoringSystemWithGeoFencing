@@ -37,7 +37,7 @@ public class PreviewPage extends Activity implements OnClickListener  {
 	ImageView taken_photo,home, back;
 	String fin_year,schemeId,stage_id,worktypeid;
 	
-	TextView stage,remarks,workId,service_provider,latitude,longitude;
+	TextView stage,remarks,workId,service_provider,latitude,longitude,title;
 	RelativeLayout remark_RL;
 	Button save,upload;
 	ArrayList<String> al_param = new ArrayList<String>();
@@ -130,15 +130,17 @@ public class PreviewPage extends Activity implements OnClickListener  {
 		longitude = (TextView)findViewById(R.id.tv_longitude);
 		remark_RL = (RelativeLayout)findViewById(R.id.Linear_Layout_remarks);
 		save = (Button)findViewById(R.id.but_workidspin_save);
+		title = (TextView)findViewById(R.id.title_tv);
+		title.setText("CaptureImage");
 		save.setOnClickListener(this);
 		
 		upload = (Button) findViewById(R.id.but_workidspin_upload);
 		upload.setOnClickListener(this);
 		
-		home = (ImageView) findViewById(R.id.home_button);
+		home = (ImageView) findViewById(R.id.homeimg);
 		home.setOnClickListener(this); 
 		
-		back = (ImageView) findViewById(R.id.back_button);
+		back = (ImageView) findViewById(R.id.backimg);
 		back.setOnClickListener(this);
 		
 		service_provider = (TextView) findViewById(R.id.footertxt);
@@ -156,8 +158,10 @@ public class PreviewPage extends Activity implements OnClickListener  {
 			Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 			startActivity(Pendingwork);		
 			finish();
+			super.onBackPressed();
+			overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 		} if(v.equals(back)) {
-			finish();
+			onBackPress();
 		} if(v.equals(save)) {
 			LoginScreen.preferences = PreferenceManager.getDefaultSharedPreferences(PreviewPage.this);
 			user_name = LoginScreen.preferences.getString("user_name","");
@@ -177,11 +181,18 @@ public class PreviewPage extends Activity implements OnClickListener  {
 				Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 				startActivity(Pendingwork);
 				finish();
+				super.onBackPressed();
+				overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 			} catch(Exception e) {
 				e.printStackTrace();
 			}
 			
 		} 
+	}
+	public void onBackPress(){
+		 super.onBackPressed();
+		setResult(Activity.RESULT_CANCELED);
+		overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 	}
 	private void uploadPhoto() {
 		 
@@ -274,6 +285,7 @@ public class PreviewPage extends Activity implements OnClickListener  {
 					Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 					startActivity(Pendingwork);		
 					finish();
+					overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 				}
 				if (response.equals("Failed")) {
 					Toast.makeText(PreviewPage.this, "Error In Data Upload",
@@ -307,5 +319,9 @@ public class PreviewPage extends Activity implements OnClickListener  {
 
 		startManagingCursor(cursor);
 		return cursor;
+	}
+	@Override
+	public void onBackPressed(){
+		onBackPress();
 	}
 }

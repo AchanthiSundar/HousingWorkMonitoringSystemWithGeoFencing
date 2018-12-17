@@ -2,8 +2,48 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/Avenir-Roman.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-black.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-blackitalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-bold.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-bolditalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-book.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-bookitalic.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-medium.ttf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/fonts/circular-mediumitalic.ttf" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/nic/HousingWorkMonitoringSystemWithGeoFensing/IndexableListView.java" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/app/src/main/java/com/nic/HousingWorkMonitoringSystemWithGeoFensing/PendingWorkList.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/nic/HousingWorkMonitoringSystemWithGeoFensing/SplashScreen.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/anim" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/back.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-mdpi/back.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/back.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/corner_bg_full_screen.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/divider.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/login_button.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/nimble_background_white.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/splash.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/splash1.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp/activity_login.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp/toolbar_with_center_title.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw720dp/activity_login.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw720dp/toolbar_with_center_title.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/alert_dialog.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/toolbar_with_center_title.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-small" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-sw600dp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w560dp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-w820dp" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1251" />
   </component>
 </project>

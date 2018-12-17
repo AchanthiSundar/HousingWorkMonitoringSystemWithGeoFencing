@@ -1,10 +1,29 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Old_Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing_New\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "F:\\Android_Projects\\HousingWorkMonitoringSystemWithGeoFencing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Administrator\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.0.aar\\976b36943e5bc781cdcf6b5275c2d5cd\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\NIC\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\bb2922364ead5902bdc2c79914c7d003\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\NIC\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\e2c9def99fcdc749d859516f6b498dee\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

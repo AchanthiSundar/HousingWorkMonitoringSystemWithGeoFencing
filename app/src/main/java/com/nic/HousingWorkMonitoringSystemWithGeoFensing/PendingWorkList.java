@@ -18,11 +18,12 @@ import android.view.Window;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.AdapterView.OnItemSelectedListener;
+import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.TextView;
 
-public class PendingWorkList extends Activity {
+public class PendingWorkList extends Activity  {
 	
 	ArrayList<HashMap<String, String>> menuItems;
 	IndexableListView list_view;
@@ -31,6 +32,7 @@ public class PendingWorkList extends Activity {
 	String arr_scheme[],arr_financial_year[];
 	String selectedScheme="",selectedfinYear="";
 	String mode="";
+//	ImageView home_img,back_img;
 	public void onCreate(Bundle savedInstanceState) {
 
 		super.onCreate(savedInstanceState);
@@ -107,6 +109,10 @@ public class PendingWorkList extends Activity {
 		sp_scheme = (Spinner)findViewById(R.id.sp_scheme);
 		sp_finYear = (Spinner)findViewById(R.id.sp_finYear);
 		list_view = (IndexableListView) findViewById(R.id.list);
+//		home_img = (ImageView) findViewById(R.id.homeimg);
+//		home_img.setOnClickListener(this);
+//		back_img = (ImageView)findViewById(R.id.backimg);
+//		back_img.setOnClickListener(this);
 		
 		Intent in = getIntent();
 		mode = in.getStringExtra("mode");
@@ -210,11 +216,19 @@ public class PendingWorkList extends Activity {
 	
    
 	private void listView() {
-//		ColorDrawable divcolor = new ColorDrawable(Color.DKGRAY);
-//		list_view.setDivider(divcolor);
-//		list_view.setDividerHeight(0);
-//		list_view.setSmoothScrollbarEnabled(true);
-//		list_view.setFooterDividersEnabled(true);
+
+		ColorDrawable divcolor = new ColorDrawable(Color.DKGRAY);
+		list_view.setDivider(getResources().getDrawable(R.drawable.divider));
+		list_view.setDividerHeight(1);
+		list_view.setSmoothScrollbarEnabled(true);
+		list_view.setFooterDividersEnabled(true);
+
+
+
+
+
+
+//		list_view.setDivider(getDrawable(R.drawable.divider));
         list_view.setFastScrollEnabled(true);
 		PendingWorkListAdapter lia = new PendingWorkListAdapter(this, menuItems);
 		list_view.setAdapter(lia);
@@ -349,6 +363,7 @@ public class PendingWorkList extends Activity {
 				Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
 				startActivity(Pendingwork);
 				finish();
+				overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
 				
 			}else{
 				finish();
@@ -356,5 +371,17 @@ public class PendingWorkList extends Activity {
 			
 		}
 		return super.onKeyDown(keyCode, event);
+	}
+
+
+	public void onBackPress(){
+		super.onBackPressed();
+		setResult(Activity.RESULT_CANCELED);
+		overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
+	}
+
+	@Override
+	public void onBackPressed(){
+		onBackPress();
 	}
 }

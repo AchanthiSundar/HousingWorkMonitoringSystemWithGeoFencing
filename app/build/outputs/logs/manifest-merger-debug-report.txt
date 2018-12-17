@@ -1,255 +1,307 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:17:1-31:12
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:1-84:12
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
+MERGED from [com.hanks:htextview-evaporate:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-evaporate-0.1.6.aar\3da4702318df2ec60a64b7555902ebf7\AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\0891a7f2dc4422de7f63b98331a7fb1e\AndroidManifest.xml:2:1-14:12
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\a12de5846cf4055d886fe53489ee60d8\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.6.aar\8eae41529c0b2ad51faad813c8f9fc54\AndroidManifest.xml:2:1-11:12
+MERGED from [com.hanks:htextview-typer:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-typer-0.1.6.aar\87f7177bf42bc820f8f02a10cd0d22eb\AndroidManifest.xml:2:1-16:12
+MERGED from [com.hanks:htextview-base:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-base-0.1.6.aar\5084d7c00d9fd32d55515fa174eae57e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\bb2922364ead5902bdc2c79914c7d003\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e4e0dff4d79aa10dcbe5a6233844d1c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\f4b8a5917e67eab1af1cabd8740e0e23\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\954c08d957d68b244158ac3236048e33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5ddbea8ef66f9bcd7c4dcaf4fa5a44ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\83d7a4b4b0eb13951b6d5daa619d4b2e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e2c9def99fcdc749d859516f6b498dee\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1fdb9f7ef4a0e55b7d5e27c7e69601a2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\96dcb7fe6c0198b540f1e2533ef4323a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55864e2099d24d2f8b7057b5bb1b5fd6\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2beee528700dd2a7f727b8abf76b993e\AndroidManifest.xml:17:1-22:12
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:1-91:12
 	package
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:2:5-64
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:3:5-64
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:5:5-30
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:2:5-51
 	xmlns:android
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:1:11-69
 	android:versionCode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:3:5-28
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
 	android:installLocation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:4:5-35
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:5:5-35
 uses-feature#android.hardware.camera.any
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:10:5-88
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:11:5-88
 	android:required
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:10:62-85
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:11:62-85
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:10:19-61
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:11:19-61
 uses-feature#android.hardware.location.gps
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:11:5-89
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:12:5-89
 	android:required
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:11:64-87
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:12:64-87
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:11:19-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:12:19-63
 uses-permission#android.permission.INTERNET
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:13:5-67
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:14:5-67
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:13:22-64
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:14:22-64
 uses-permission#android.permission.CAMERA
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:14:5-65
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:15:5-65
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:14:22-62
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:15:22-62
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:15:5-81
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:16:5-81
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:16:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:16:5-79
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:17:5-79
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:16:22-76
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:17:22-76
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:17:5-79
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:18:5-79
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:17:22-76
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:18:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:18:5-75
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:19:5-75
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:18:22-72
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:19:22-72
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:19:5-76
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:20:5-76
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:19:22-73
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:20:22-73
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:20:5-79
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:21:5-79
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:20:22-76
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:21:22-76
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:21:5-76
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:22:5-76
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:21:22-73
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:22:22-73
 uses-permission#android.permission.WRITE_SETTINGS
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:22:5-73
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:23:5-73
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:22:22-70
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:23:22-70
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:23:5-81
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:24:5-81
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:23:22-78
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:24:22-78
 application
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:25:5-82:19
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:25:5-29:19
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:26:5-89:19
+MERGED from [com.hanks:htextview-evaporate:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-evaporate-0.1.6.aar\3da4702318df2ec60a64b7555902ebf7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.hanks:htextview-evaporate:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-evaporate-0.1.6.aar\3da4702318df2ec60a64b7555902ebf7\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\0891a7f2dc4422de7f63b98331a7fb1e\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\0891a7f2dc4422de7f63b98331a7fb1e\AndroidManifest.xml:11:5-12:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\a12de5846cf4055d886fe53489ee60d8\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\a12de5846cf4055d886fe53489ee60d8\AndroidManifest.xml:9:5-20
+MERGED from [com.hanks:htextview-typer:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-typer-0.1.6.aar\87f7177bf42bc820f8f02a10cd0d22eb\AndroidManifest.xml:11:5-14:19
+MERGED from [com.hanks:htextview-typer:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-typer-0.1.6.aar\87f7177bf42bc820f8f02a10cd0d22eb\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from [com.hanks:htextview-evaporate:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-evaporate-0.1.6.aar\3da4702318df2ec60a64b7555902ebf7\AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:28:9-41
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:29:9-41
 	android:icon
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:27:9-42
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:28:9-36
 	android:allowBackup
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:26:9-35
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:27:9-35
 	android:theme
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:29:9-40
-activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.LoginScreen
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:30:9-40:20
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.SplashScreen
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:31:9-41:20
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:34:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:35:13-49
 	android:label
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:32:13-64
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:33:13-64
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:33:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:34:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:31:13-89
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:32:13-90
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:35:13-39:29
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:36:13-40:29
 action#android.intent.action.MAIN
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:36:17-69
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:37:17-69
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:36:25-66
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:37:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:38:17-77
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:39:17-77
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:38:27-74
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.LoginScreen
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:42:9-47:14
+	android:screenOrientation
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:45:13-49
+	android:windowSoftInputMode
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:46:13-67
+	android:configChanges
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:43:13-89
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.Dashboard
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:41:9-45:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:48:9-52:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:51:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:45:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:52:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:43:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:50:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:42:13-87
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:49:13-87
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.VillageList
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:46:9-50:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:53:9-57:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:49:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:56:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:50:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:57:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:48:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:55:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:47:13-89
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:54:13-89
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.PendingWorkList
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:51:9-55:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:58:9-62:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:54:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:61:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:55:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:62:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:53:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:60:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:52:13-93
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:59:13-93
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.DetailedPendingWork
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:56:9-60:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:63:9-67:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:59:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:66:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:60:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:67:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:58:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:65:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:57:13-97
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:64:13-97
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.PendingWorkDetailSpinner
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:61:9-65:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:68:9-72:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:64:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:71:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:65:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:72:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:63:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:70:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:62:13-102
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:69:13-102
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.PreviewPage
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:66:9-70:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:73:9-77:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:69:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:76:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:70:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:77:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:68:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:75:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:67:13-89
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:74:13-89
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.PendingUpload
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:71:9-75:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:78:9-82:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:74:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:81:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:75:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:82:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:73:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:80:13-63
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:72:13-91
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:79:13-91
 activity#com.nic.HousingWorkMonitoringSystemWithGeoFensing.Upgradeapk
-ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:76:9-81:70
+ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:83:9-88:70
 	android:screenOrientation
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:79:13-49
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:86:13-49
 	android:windowSoftInputMode
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:81:13-67
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:88:13-67
 	android:configChanges
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:78:13-63
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:85:13-63
 	android:theme
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:80:13-77
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:87:13-77
 	android:name
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml:77:13-88
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml:84:13-88
 uses-sdk
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:21:5-23:58
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+MERGED from [com.hanks:htextview-evaporate:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-evaporate-0.1.6.aar\3da4702318df2ec60a64b7555902ebf7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-evaporate:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-evaporate-0.1.6.aar\3da4702318df2ec60a64b7555902ebf7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:20:5-44
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\0891a7f2dc4422de7f63b98331a7fb1e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.scottyab:showhidepasswordedittext:0.8] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\showhidepasswordedittext-0.8.aar\0891a7f2dc4422de7f63b98331a7fb1e\AndroidManifest.xml:7:5-9:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\a12de5846cf4055d886fe53489ee60d8\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\circleimageview-2.1.0.aar\a12de5846cf4055d886fe53489ee60d8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.6.aar\8eae41529c0b2ad51faad813c8f9fc54\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\sdp-android-1.0.6.aar\8eae41529c0b2ad51faad813c8f9fc54\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-typer:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-typer-0.1.6.aar\87f7177bf42bc820f8f02a10cd0d22eb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-typer:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-typer-0.1.6.aar\87f7177bf42bc820f8f02a10cd0d22eb\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-base:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-base-0.1.6.aar\5084d7c00d9fd32d55515fa174eae57e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hanks:htextview-base:0.1.6] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\htextview-base-0.1.6.aar\5084d7c00d9fd32d55515fa174eae57e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\bb2922364ead5902bdc2c79914c7d003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\bb2922364ead5902bdc2c79914c7d003\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e4e0dff4d79aa10dcbe5a6233844d1c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\e4e0dff4d79aa10dcbe5a6233844d1c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\f4b8a5917e67eab1af1cabd8740e0e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\f4b8a5917e67eab1af1cabd8740e0e23\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\954c08d957d68b244158ac3236048e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\954c08d957d68b244158ac3236048e33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5ddbea8ef66f9bcd7c4dcaf4fa5a44ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\5ddbea8ef66f9bcd7c4dcaf4fa5a44ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\83d7a4b4b0eb13951b6d5daa619d4b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\83d7a4b4b0eb13951b6d5daa619d4b2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e2c9def99fcdc749d859516f6b498dee\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\e2c9def99fcdc749d859516f6b498dee\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1fdb9f7ef4a0e55b7d5e27c7e69601a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\1fdb9f7ef4a0e55b7d5e27c7e69601a2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\96dcb7fe6c0198b540f1e2533ef4323a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\96dcb7fe6c0198b540f1e2533ef4323a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55864e2099d24d2f8b7057b5bb1b5fd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55864e2099d24d2f8b7057b5bb1b5fd6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2beee528700dd2a7f727b8abf76b993e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\2beee528700dd2a7f727b8abf76b993e\AndroidManifest.xml:20:5-44
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		ADDED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Old_Android_Projects\HousingWorkMonitoringSystemWithGeoFencing_New\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android_Projects\HousingWorkMonitoringSystemWithGeoFencing\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0.aar\d9b5d7bf09f07b3069b1fe194ce0808d\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0.aar\f2ff688550a138c5663565317ff5b874\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0.aar\df9d7ba230e5fd91550a79939a754b88\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0.aar\4ac942036f7a5a4803f751f8564399c6\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0.aar\976b36943e5bc781cdcf6b5275c2d5cd\AndroidManifest.xml:26:9-28:38
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\48857344e676642b6c384e77a5e5fedb\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\5af97e44aa478af71f859e53c1bb7038\AndroidManifest.xml:26:9-28:38
 	android:value
-		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:28:13-35
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:28:13-35
 	android:name
-		ADDED from [com.android.support:support-v4:26.0.0] C:\Users\Administrator\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0.aar\19f1aaff3dcf6350fa638704150ed358\AndroidManifest.xml:27:13-51
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\NIC\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0150bddc3393258a9acfb56bf20d2e68\AndroidManifest.xml:27:13-51

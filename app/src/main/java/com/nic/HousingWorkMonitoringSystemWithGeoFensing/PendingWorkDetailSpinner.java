@@ -44,7 +44,7 @@ public class PendingWorkDetailSpinner extends Activity implements OnClickListene
     Spinner sp_selectStage;
     EditText ed_remarks;
     Button bt_takePhoto;
-    TextView tv_workId, service_provider;
+    TextView tv_workId, service_provider,title;
     ImageView home, back;
 
     String work_group_code, work_code, work_stage_code;
@@ -171,6 +171,8 @@ public class PendingWorkDetailSpinner extends Activity implements OnClickListene
         service_provider = (TextView) findViewById(R.id.footertxt);
         home = (ImageView) findViewById(R.id.homeimg);
         back = (ImageView) findViewById(R.id.backimg);
+        title = (TextView)findViewById(R.id.title_tv);
+        title.setText("CaptureImage");
 
         bt_takePhoto.setOnClickListener(this);
         back.setOnClickListener(this);
@@ -190,12 +192,20 @@ public class PendingWorkDetailSpinner extends Activity implements OnClickListene
             Pendingwork.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
             startActivity(Pendingwork);
             finish();
+            super.onBackPressed();
+            overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
         }
 
         if (v.equals(back)) {
 
-            finish();
+            onBackPress();
         }
+    }
+
+    public void onBackPress(){
+        super.onBackPressed();
+        setResult(Activity.RESULT_CANCELED);
+        overridePendingTransition(R.anim.slide_enter, R.anim.slide_exit);
     }
 
     private void takePhoto() {
@@ -389,6 +399,9 @@ public class PendingWorkDetailSpinner extends Activity implements OnClickListene
 
         }
     }
-
+    @Override
+    public void onBackPressed(){
+         onBackPress();
+    }
 
 }

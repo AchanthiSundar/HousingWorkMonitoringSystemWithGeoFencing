@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.nic.HousingWorkMonitoringSystemWithGeoFensing"
     android:versionCode="1"
     android:installLocation="auto"
@@ -24,11 +25,11 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/app_icon"
+        android:icon="@mipmap/home"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.LoginScreen"
+            android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.SplashScreen"
             android:label="@string/title_activity_login_screen"
             android:configChanges="orientation|keyboardHidden"
             android:screenOrientation="portrait" >
@@ -38,6 +39,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.LoginScreen"
+            android:configChanges="orientation|keyboardHidden"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateUnchanged|adjustPan"
+           />
         <activity
             android:name="com.nic.HousingWorkMonitoringSystemWithGeoFensing.Dashboard"
             android:configChanges="orientation|keyboardHidden"

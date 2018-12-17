@@ -4,7 +4,13 @@
     android:layout_height="fill_parent"
     android:background="@drawable/background"
     android:orientation="vertical" >
-
+    <include
+        android:id="@+id/toolbar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_gravity="bottom"
+        layout="@layout/toolbar_with_center_title" />
     <!--
          <include
         android:id="@+id/header"

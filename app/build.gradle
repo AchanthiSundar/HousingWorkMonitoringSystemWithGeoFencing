@@ -18,10 +18,24 @@ android {
         }
     }
 }
+repositories {
+    maven { url "https://jitpack.io" }
+     }
+
+
 
 dependencies {
-    implementation 'com.android.support:support-v4:26.0.0'
-    android{
-        useLibrary  'org.apache.http.legacy'
+    implementation 'com.android.support:support-v4:26.1.0'
+    implementation 'com.android.support:cardview-v7:26.1.0'
+    implementation 'com.github.scottyab:showhidepasswordedittext:0.8'
+    implementation 'de.hdodenhof:circleimageview:2.1.0'
+    implementation 'com.intuit.sdp:sdp-android:1.0.6'
+    implementation "com.hanks:htextview-typer:0.1.6"
+    implementation "com.hanks:htextview-base:0.1.6"
+    compile "com.hanks:htextview-evaporate:0.1.6"
+
+
+    android {
+        useLibrary 'org.apache.http.legacy'
     }
 }
