@@ -19,7 +19,7 @@
     <dimen name="sliding_height">100dp</dimen>
     <dimen name="dashboard_margin">15dp</dimen>
 
-    <dimen name="slidingmenu_offset">80dp</dimen>
+
     <dimen name="dashboard_count_size">80dp</dimen>
     <dimen name="cms_button_size">60dp</dimen>
     <dimen name="map_height">450dp</dimen>
