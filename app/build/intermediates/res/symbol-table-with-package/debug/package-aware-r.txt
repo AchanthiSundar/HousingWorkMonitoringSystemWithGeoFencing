@@ -1219,7 +1219,6 @@ dimen padding
 dimen padding_2dp
 dimen report_bottom
 dimen sliding_height
-dimen slidingmenu_offset
 dimen tooltip_corner_radius
 dimen tooltip_horizontal_padding
 dimen tooltip_margin

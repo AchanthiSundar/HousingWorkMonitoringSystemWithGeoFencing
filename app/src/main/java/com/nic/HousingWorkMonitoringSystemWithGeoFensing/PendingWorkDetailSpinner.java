@@ -70,7 +70,8 @@ public class PendingWorkDetailSpinner extends Activity implements OnClickListene
         placeData = new PlaceDataSQL(this);
         SQLiteDatabase db = placeData.getWritableDatabase();
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-            requestPermissions(new String[]{ CAMERA,ACCESS_FINE_LOCATION}, PERMISSION_REQUEST_CODE);
+            if (ActivityCompat.checkSelfPermission(PendingWorkDetailSpinner.this, ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(PendingWorkDetailSpinner.this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED)
+                requestPermissions(new String[]{ CAMERA,ACCESS_FINE_LOCATION}, PERMISSION_REQUEST_CODE);
         }
         else{
             if (ActivityCompat.checkSelfPermission(PendingWorkDetailSpinner.this, ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(PendingWorkDetailSpinner.this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {

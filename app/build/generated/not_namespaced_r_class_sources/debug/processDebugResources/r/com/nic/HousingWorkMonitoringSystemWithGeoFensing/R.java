@@ -3135,20 +3135,19 @@ public final class R {
     public static final int padding_2dp=0x7f050316;
     public static final int report_bottom=0x7f050317;
     public static final int sliding_height=0x7f050318;
-    public static final int slidingmenu_offset=0x7f050319;
-    public static final int tooltip_corner_radius=0x7f05031a;
-    public static final int tooltip_horizontal_padding=0x7f05031b;
-    public static final int tooltip_margin=0x7f05031c;
-    public static final int tooltip_precise_anchor_extra_offset=0x7f05031d;
-    public static final int tooltip_precise_anchor_threshold=0x7f05031e;
-    public static final int tooltip_vertical_padding=0x7f05031f;
-    public static final int tooltip_y_offset_non_touch=0x7f050320;
-    public static final int tooltip_y_offset_touch=0x7f050321;
-    public static final int track_asset_img_height=0x7f050322;
-    public static final int track_asset_img_width=0x7f050323;
-    public static final int track_item_height=0x7f050324;
-    public static final int viewpager_height=0x7f050325;
-    public static final int viewpager_margin=0x7f050326;
+    public static final int tooltip_corner_radius=0x7f050319;
+    public static final int tooltip_horizontal_padding=0x7f05031a;
+    public static final int tooltip_margin=0x7f05031b;
+    public static final int tooltip_precise_anchor_extra_offset=0x7f05031c;
+    public static final int tooltip_precise_anchor_threshold=0x7f05031d;
+    public static final int tooltip_vertical_padding=0x7f05031e;
+    public static final int tooltip_y_offset_non_touch=0x7f05031f;
+    public static final int tooltip_y_offset_touch=0x7f050320;
+    public static final int track_asset_img_height=0x7f050321;
+    public static final int track_asset_img_width=0x7f050322;
+    public static final int track_item_height=0x7f050323;
+    public static final int viewpager_height=0x7f050324;
+    public static final int viewpager_margin=0x7f050325;
   }
   public static final class drawable {
     public static final int abc_ab_share_pack_mtrl_alpha=0x7f060000;
