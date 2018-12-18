@@ -1321,6 +1321,7 @@ drawable back_button_selector
 drawable back_hover
 drawable back_normal
 drawable background
+drawable border_red_background
 drawable button_normal
 drawable button_selector
 drawable buuton_hover

@@ -47,6 +47,7 @@ import android.view.View.OnClickListener;
 import android.view.Window;
 import android.view.WindowManager;
 import android.view.inputmethod.InputMethodManager;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.RelativeLayout;
@@ -74,7 +75,8 @@ public class Dashboard extends Activity implements OnClickListener {
 	ImageView employee_photo;
 	int pendingWorkCount;
 
-	TextView bt_selectVillage, tv_pendingUpload, tv_getHousingWorks;
+	TextView  tv_getHousingWorks;
+	Button bt_selectVillage,tv_pendingUpload;
 	public static TextView tv_pendingUploadCount;
 
 
@@ -621,8 +623,8 @@ public class Dashboard extends Activity implements OnClickListener {
 		employee_photo = (ImageView) findViewById(R.id.emp_photo);
 		emp_name = (TextView) findViewById(R.id.emp_name);
 		emp_designation = (TextView) findViewById(R.id.designation);
-		bt_selectVillage = (TextView) findViewById(R.id.pendingWorks);
-		tv_pendingUpload = (TextView) findViewById(R.id.pendingUploads);
+		bt_selectVillage = (Button) findViewById(R.id.pendingWorks);
+		tv_pendingUpload = (Button) findViewById(R.id.pendingUploads);
 		tv_pendingUploadCount = (TextView) findViewById(R.id.pendingUploadCount);
 		tv_getHousingWorks = (TextView) findViewById(R.id.tv_getHousingWorks);
 

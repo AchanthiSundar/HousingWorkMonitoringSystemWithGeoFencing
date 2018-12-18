@@ -95,21 +95,26 @@
             android:gravity="center_vertical" >
 
             <ImageView
-                
-                android:layout_width="60dip"
-                android:layout_height="60dip"
-                android:layout_marginLeft="10dp"
-                android:src="@drawable/housing" />
 
-            <TextView
+                android:layout_width="@dimen/_45sdp"
+                android:layout_height="@dimen/_45sdp"
+                android:layout_marginLeft="10dp"
+                android:src="@mipmap/dashboard_icon" />
+
+            <Button
                 android:id="@+id/pendingWorks"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dip"
-                android:text="Select Housing Work Manually"
+                android:text="View Housing Works"
+                android:padding="@dimen/_5sdp"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@drawable/selector"
-                android:textStyle="bold" />
+                android:textSize="@dimen/_15sdp"
+                android:background="@drawable/border_red_background"
+                android:shadowColor="@color/fastScrollBarColor"
+                android:elevation="@dimen/_5sdp"
+                style="@style/font_circular_book"/>
 
             <TextView
                 android:id="@+id/pendingWorksCount"
@@ -130,23 +135,26 @@
 
             <ImageView
                 android:id="@+id/listimage3"
-                android:layout_width="60dip"
-                android:layout_height="60dip"
-                android:layout_marginLeft="10dp"
+                android:layout_width="@dimen/_40sdp"
+                android:layout_height="@dimen/_40sdp"
+                android:layout_marginLeft="15dp"
                 android:src="@drawable/pending_uploads" />
 
-            <TextView
+            <Button
                 android:id="@+id/pendingUploads"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:layout_marginLeft="10dip"
+                android:layout_marginLeft="10dp"
                 android:gravity="center"
                 android:layout_toRightOf="@+id/listimage3"
                 android:text="Pending Uploads"
+                android:padding="@dimen/_5sdp"
                 android:layout_centerVertical="true"
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@drawable/selector"
-                android:textStyle="bold" />
+                android:textSize="@dimen/_15sdp"
+                android:background="@drawable/border_red_background"
+                style="@style/font_circular_book"/>
 
             <TextView
                 android:id="@+id/pendingUploadCount"
