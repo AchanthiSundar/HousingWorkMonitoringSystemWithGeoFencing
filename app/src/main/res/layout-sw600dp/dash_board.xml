@@ -111,7 +111,7 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@drawable/selector"
                 android:textSize="@dimen/_15sdp"
-                android:background="@drawable/border_red_background"
+                android:background="@drawable/button_highlight"
                 android:shadowColor="@color/fastScrollBarColor"
                 android:elevation="@dimen/_5sdp"
                 style="@style/font_circular_book"/>
@@ -153,7 +153,7 @@
                 android:textAppearance="?android:attr/textAppearanceMedium"
                 android:textColor="@drawable/selector"
                 android:textSize="@dimen/_15sdp"
-                android:background="@drawable/border_red_background"
+                android:background="@drawable/button_highlight"
                 style="@style/font_circular_book"/>
 
             <TextView
