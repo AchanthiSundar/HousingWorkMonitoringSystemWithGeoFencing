@@ -323,8 +323,8 @@ public class LoginScreen extends Activity implements OnClickListener {
 
     protected void offline_mode() {
         preferences = PreferenceManager.getDefaultSharedPreferences(LoginScreen.this);
-        String user_name = preferences.getString("user_name", "");
-        String pwd = preferences.getString("pwd", "");
+        String user_name = preferences.getString("user_name", "").replaceAll(" +$","");
+        String pwd = preferences.getString("pwd", "").replaceAll(" +$","");
 
         if (user_name.equals(name) && pwd.equals(pass)) {
             Cursor cursors1 = getRawEvents("select workid from workIdForOffLine", null);
